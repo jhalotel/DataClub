@@ -1,1 +1,2 @@
-Here is the file explaining how to use the data in the repository
+Here is the file explaining how to use the data in the repository.
+One must be careful in the way the data is constructed
